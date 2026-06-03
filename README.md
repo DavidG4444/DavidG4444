@@ -15,8 +15,7 @@ I am a Data Scientist and Machine Learning Engineer specialising in building rob
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-Model Evaluation
-Classification Models
+
 
 ### AI, LLMs & MLOps
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F61?style=flat)
@@ -28,10 +27,6 @@ Classification Models
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-
-### Databases
-PostgreSQL
-
 
 ## 📊 Profile Insights
 
