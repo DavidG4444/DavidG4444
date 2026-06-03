@@ -6,14 +6,17 @@ I am a Data Scientist and Machine Learning Engineer specialising in building rob
 - 🔬 Research Focus: Structured prompt evaluation and deterministic LLM integrations with an interest in Healthcare Technology Integration Research.
 - 💬 Ask me about: Python, Streamlit, PostgreSQL, and building in Ubuntu environments.
 
+
 ## 🚀 Technical Toolbelt
 
-### Backend & ML Engineering
+### Backend Programming & ML Engineering
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+Model Evaluation
+Classification Models
 
 ### AI, LLMs & MLOps
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F61?style=flat)
@@ -26,9 +29,38 @@ I am a Data Scientist and Machine Learning Engineer specialising in building rob
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
----
+### Databases
+PostgreSQL
+
 
 ## 📊 Profile Insights
+
+### Current Focus
+
+- Machine Learning Engineering
+- MLOps Fundamentals
+- Data Science
+- AI Research
+- Production-Ready ML Systems
+
+
+## Featured Projects
+
+### Healthcare Patient Outcome Prediction System
+
+End-to-end machine learning solution
+covering data ingestion,
+model development,
+deployment and visualisation.
+
+### AI-Assisted Learning Research
+
+Research project exploring
+AI integration in education systems.
+
+### Analytics Dashboards
+
+Interactive Power BI and Streamlit dashboards.
 
 
 <!--
