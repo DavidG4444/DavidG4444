@@ -4,7 +4,7 @@ I am a Data Analyst &  Scientist transitioning into a Machine Learning Engineer,
 
 - 🛠️ Currently working on: End-to-end data validation and model drift pipelines.
 - 🔬 Research Focus: Structured prompt evaluation and deterministic LLM integrations with an interest in Healthcare Technology Integration Research.
-- 💬 Ask me about: Python, Streamlit, PostgreSQL, and building in Ubuntu environments.
+- 💬 Ask me about: Python, Streamlit, PostgreSQL, and building in Ubuntu environments in Virtual Machines via GCP.
 
 
 ## 🚀 Technical Toolbelt
