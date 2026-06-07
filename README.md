@@ -1,6 +1,6 @@
 # Hi, I'm David Ndungu 👋
 
-I am a Data Scientist and Machine Learning Engineer specialising in building robust data infrastructure, training predictive models, and deploying reliable APIs. My background bridges traditional network infrastructure and modern MLOps practices.
+I am a Data Analyst &  Scientist transitioning into a Machine Learning Engineer, specialising in building robust data infrastructure, training predictive models, and deploying reliable APIs. My background bridges traditional network infrastructure and modern MLOps practices.
 
 - 🛠️ Currently working on: End-to-end data validation and model drift pipelines.
 - 🔬 Research Focus: Structured prompt evaluation and deterministic LLM integrations with an interest in Healthcare Technology Integration Research.
